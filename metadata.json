@@ -1,0 +1,6 @@
+{
+  "name": "Dangote Builder",
+  "description": "Plateforme éducative et interactive de formation entrepreneuriale inspirée du parcours, de la philosophie et de la stratégie d'import-substitution d'Aliko Dangote.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
